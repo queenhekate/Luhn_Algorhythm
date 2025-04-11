@@ -1,4 +1,3 @@
-```markdown
 # 💳 Luhn Algorithm in Python
 
 This is a simple Python implementation of the **Luhn Algorithm**, also known as the "modulus 10" or "mod 10" algorithm. It's widely used to validate identification numbers like **credit card numbers**, **IMEIs**, and **national IDs**.
