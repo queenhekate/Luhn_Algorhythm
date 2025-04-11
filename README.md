@@ -105,7 +105,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Built with 🐍 Python and ❤️ for learning algorithms**
 ```
-
----
-
-Let me know if you want to include example input/output from a CLI tool, or convert this into a Python package structure!
