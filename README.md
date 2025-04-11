@@ -1,7 +1,3 @@
-Sure! Here's a professional and beginner-friendly `README.md` for a Python implementation of the **Luhn Algorithm**, commonly used for validating credit card numbers.
-
----
-
 ```markdown
 # 💳 Luhn Algorithm in Python
 
